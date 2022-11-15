@@ -1,11 +1,2 @@
-# Deep Learning projects
-
-Here
-
-## CNN
-
-## RNN
-
-## GAN
-
-## Image segmentation
+## Deep learning projects
+Deep learning projects. 
